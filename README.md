@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Joash!
+# 🕹 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐉𝐨𝐚𝐬𝐡!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Computer Science at Mindanao State University - Iligan Institute of Technology <br/>
 💭 Currently learning about Object-Oriented Programming, specifically JAVA!<br/>

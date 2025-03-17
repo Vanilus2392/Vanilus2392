@@ -1,6 +1,6 @@
 # 🕹 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐉𝐨𝐚𝐬𝐡!
-#College Sophomore: Studied in MSU-IIT at the College of Computer Studies, Bachelor of Science in Computer Science 💻 <br/>
-#Currently learning about Object-Oriented Programming, specifically JAVA! ☕️ <br/>
+#𝘾𝙤𝙡𝙡𝙚𝙜𝙚 𝙎𝙤𝙥𝙝𝙤𝙢𝙤𝙧𝙚: Studied in MSU-IIT at the College of Computer Studies, Bachelor of Science in Computer Science 💻 <br/>
+#𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜: Object-Oriented Programming => JAVA! ☕️ <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanilus2392&show_icons=true&theme=transparent)
